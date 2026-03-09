@@ -56,3 +56,16 @@ npm run dev
 ## Author
 
 Sameer
+## Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Sales Chart
+![Sales Chart](screenshots/sales-chart.png)
+
+### Product Analysis
+![Products](screenshots/products.png)
+
+### Regional Analysis
+![Regions](screenshots/regions.png)
