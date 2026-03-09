@@ -1,0 +1,1021 @@
+Order_ID,Order_Date,Product,Category,Region,Quantity,Sales,Profit
+ORD-001,2023-01-05,iPhone 14 Pro,Electronics,North,2,1998,399.60
+ORD-002,2023-01-07,Samsung Galaxy S23,Electronics,West,1,899,179.80
+ORD-003,2023-01-10,MacBook Pro 14,Electronics,South,1,1999,499.75
+ORD-004,2023-01-12,Office Chair Pro,Furniture,East,3,897,269.10
+ORD-005,2023-01-15,Standing Desk Elite,Furniture,North,1,649,194.70
+ORD-006,2023-01-18,Sony WH-1000XM5,Electronics,West,2,598,179.40
+ORD-007,2023-01-20,HP LaserJet Pro,Office Supplies,South,1,449,134.70
+ORD-008,2023-01-22,Conference Table,Furniture,East,1,1299,389.70
+ORD-009,2023-01-25,Dell Monitor 27,Electronics,North,4,1596,478.80
+ORD-010,2023-01-28,Paper Box A4,Office Supplies,West,50,249,99.60
+ORD-011,2023-02-02,iPad Air,Electronics,South,3,1797,449.25
+ORD-012,2023-02-05,Ergonomic Keyboard,Office Supplies,East,5,449,179.60
+ORD-013,2023-02-08,Apple Watch Ultra,Electronics,North,2,1598,479.40
+ORD-014,2023-02-11,Desk Lamp LED,Office Supplies,West,8,319,127.60
+ORD-015,2023-02-14,Filing Cabinet,Furniture,South,2,458,137.40
+ORD-016,2023-02-17,Surface Pro 9,Electronics,East,1,1299,389.70
+ORD-017,2023-02-20,Wireless Mouse,Office Supplies,North,10,299,149.50
+ORD-018,2023-02-23,Bookshelf Oak,Furniture,West,2,698,209.40
+ORD-019,2023-02-26,Canon EOS R6,Electronics,South,1,2499,624.75
+ORD-020,2023-03-01,Printer Paper,Office Supplies,East,100,399,199.50
+ORD-021,2023-03-04,LG OLED TV 55,Electronics,North,1,1299,389.70
+ORD-022,2023-03-07,Office Sofa,Furniture,West,1,899,269.70
+ORD-023,2023-03-10,AirPods Pro,Electronics,South,5,1249,374.70
+ORD-024,2023-03-13,Whiteboard Large,Office Supplies,East,2,358,143.20
+ORD-025,2023-03-16,Gaming Chair X,Furniture,North,3,1197,359.10
+ORD-026,2023-03-19,ThinkPad X1 Carbon,Electronics,West,2,3598,899.50
+ORD-027,2023-03-22,Stapler Heavy Duty,Office Supplies,South,20,178,89.00
+ORD-028,2023-03-25,Coat Rack,Furniture,East,4,316,94.80
+ORD-029,2023-03-28,Peloton Bike,Sports,North,1,1495,448.50
+ORD-030,2023-04-01,Bose SoundLink,Electronics,West,3,537,161.10
+ORD-031,2023-04-04,Standing Desk Basic,Furniture,South,2,698,209.40
+ORD-032,2023-04-07,Markers Set,Office Supplies,East,50,149,74.50
+ORD-033,2023-04-10,Nintendo Switch,Electronics,North,4,1196,358.80
+ORD-034,2023-04-13,Bookcase 5-Shelf,Furniture,West,1,349,104.70
+ORD-035,2023-04-16,USB Hub 7-Port,Office Supplies,South,10,199,99.50
+ORD-036,2023-04-19,PlayStation 5,Electronics,East,2,999,299.70
+ORD-037,2023-04-22,File Organizer,Office Supplies,North,15,179,89.50
+ORD-038,2023-04-25,Recliner Chair,Furniture,West,2,798,239.40
+ORD-039,2023-04-28,Galaxy Tab S8,Electronics,South,3,1797,539.10
+ORD-040,2023-05-02,Desk Organizer Set,Office Supplies,East,8,159,79.50
+ORD-041,2023-05-05,Coffee Table Modern,Furniture,North,2,498,149.40
+ORD-042,2023-05-08,DJI Mavic 3,Electronics,West,1,2199,659.70
+ORD-043,2023-05-11,Pen Set Premium,Office Supplies,South,30,239,119.50
+ORD-044,2023-05-14,TV Stand Entertainment,Furniture,East,1,449,134.70
+ORD-045,2023-05-17,Samsung QLED 65,Electronics,North,1,1799,539.70
+ORD-046,2023-05-20,Calculator Scientific,Office Supplies,West,12,179,89.50
+ORD-047,2023-05-23,Wardrobe Cabinet,Furniture,South,1,899,269.70
+ORD-048,2023-05-26,Razer Gaming Laptop,Electronics,East,1,2499,749.70
+ORD-049,2023-05-29,Tape Dispenser,Office Supplies,North,25,99,49.50
+ORD-050,2023-06-02,Dining Table Set,Furniture,West,1,1299,389.70
+ORD-051,2023-06-05,GoPro Hero 11,Electronics,South,2,798,239.40
+ORD-052,2023-06-08,Clipboard Set,Office Supplies,East,20,79,39.50
+ORD-053,2023-06-11,Mattress Queen,Furniture,North,2,1598,479.40
+ORD-054,2023-06-14,Kindle Paperwhite,Electronics,West,5,749,299.60
+ORD-055,2023-06-17,Scissors Set,Office Supplies,South,15,59,29.50
+ORD-056,2023-06-20,Nightstand Pair,Furniture,East,2,298,89.40
+ORD-057,2023-06-23,JBL Flip 6,Electronics,North,4,496,148.80
+ORD-058,2023-06-26,Binder Clips Box,Office Supplies,West,30,69,34.50
+ORD-059,2023-06-29,Office Partition,Furniture,South,1,699,209.70
+ORD-060,2023-07-03,Fujifilm X-T5,Electronics,East,1,1699,509.70
+ORD-061,2023-07-06,Rubber Bands Pack,Office Supplies,North,40,49,24.50
+ORD-062,2023-07-09,Dresser 6-Drawer,Furniture,West,1,599,179.70
+ORD-063,2023-07-12,Sonos Arc,Electronics,South,1,899,269.70
+ORD-064,2023-07-15,Pencil Set 50,Office Supplies,East,30,39,19.50
+ORD-065,2023-07-18,Sofa Sectional,Furniture,North,1,2499,749.70
+ORD-066,2023-07-21,Sony PS VR2,Electronics,West,1,549,164.70
+ORD-067,2023-07-24,Paper Clips Box,Office Supplies,South,50,29,14.50
+ORD-068,2023-07-27,Lounge Chair,Furniture,East,2,898,269.40
+ORD-069,2023-07-30,Apple Studio Display,Electronics,North,1,1599,479.70
+ORD-070,2023-08-03,Notebook Set,Office Supplies,West,40,79,39.50
+ORD-071,2023-08-06,Bed Frame King,Furniture,South,1,899,269.70
+ORD-072,2023-08-09,Samsung Galaxy Fold,Electronics,East,1,1799,539.70
+ORD-073,2023-08-12,Folders Assorted,Office Supplies,North,60,59,29.50
+ORD-074,2023-08-15,Vanity Table Set,Furniture,West,1,449,134.70
+ORD-075,2023-08-18,Canon R5,Electronics,South,1,3899,1169.70
+ORD-076,2023-08-21,Envelope Pack,Office Supplies,East,100,49,24.50
+ORD-077,2023-08-24,Bunk Bed Kids,Furniture,North,1,699,209.70
+ORD-078,2023-08-27,Dell XPS 15,Electronics,West,2,2398,719.40
+ORD-079,2023-08-30,Highlighter Set,Office Supplies,South,25,49,24.50
+ORD-080,2023-09-03,Computer Desk,Furniture,East,3,1047,314.10
+ORD-081,2023-09-06,Sony A7 IV,Electronics,North,1,2499,749.70
+ORD-082,2023-09-09,Correction Tape,Office Supplies,West,20,39,19.50
+ORD-083,2023-09-12,Accent Chair,Furniture,South,2,498,149.40
+ORD-084,2023-09-15,Google Pixel 7 Pro,Electronics,East,3,2697,809.10
+ORD-085,2023-09-18,Post-it Notes Pack,Office Supplies,North,40,49,24.50
+ORD-086,2023-09-21,Shoe Rack,Furniture,West,2,198,59.40
+ORD-087,2023-09-24,Apple TV 4K,Electronics,South,3,537,161.10
+ORD-088,2023-09-27,Tape Roll Pack,Office Supplies,East,30,39,19.50
+ORD-089,2023-10-01,Murphy Bed,Furniture,North,1,1499,449.70
+ORD-090,2023-10-04,Samsung Soundbar,Electronics,West,2,398,119.40
+ORD-091,2023-10-07,Glue Sticks Pack,Office Supplies,South,25,29,14.50
+ORD-092,2023-10-10,Patio Set,Furniture,East,1,1299,389.70
+ORD-093,2023-10-13,Meta Quest Pro,Electronics,North,1,999,299.70
+ORD-094,2023-10-16,Push Pins Box,Office Supplies,West,30,19,9.50
+ORD-095,2023-10-19,Wine Rack,Furniture,South,2,158,47.40
+ORD-096,2023-10-22,OnePlus 11,Electronics,East,2,1398,419.40
+ORD-097,2023-10-25,Ruler Set,Office Supplies,North,15,29,14.50
+ORD-098,2023-10-28,Futon Sofa Bed,Furniture,West,1,599,179.70
+ORD-099,2023-11-01,iPad Pro 12.9,Electronics,South,2,2198,659.40
+ORD-100,2023-11-04,Sticky Notes Dispenser,Office Supplies,East,10,49,24.50
+ORD-101,2023-11-07,Bar Stool Set,Furniture,North,4,396,118.80
+ORD-102,2023-11-10,Sony Xperia 1 V,Electronics,West,1,1399,419.70
+ORD-103,2023-11-13,Clipboard Aluminum,Office Supplies,South,8,79,39.50
+ORD-104,2023-11-16,Console Table,Furniture,East,2,298,89.40
+ORD-105,2023-11-19,Nothing Phone 2,Electronics,North,2,1198,359.40
+ORD-106,2023-11-22,Desk Pad Large,Office Supplies,West,5,79,39.50
+ORD-107,2023-11-25,Mirror Floor,Furniture,South,1,299,89.70
+ORD-108,2023-11-28,Asus ROG Phone,Electronics,East,1,1099,329.70
+ORD-109,2023-12-02,Laminator A4,Office Supplies,North,2,158,79.00
+ORD-110,2023-12-05,Bedside Table,Furniture,West,4,396,118.80
+ORD-111,2023-12-08,Google Pixel Watch,Electronics,South,3,897,269.10
+ORD-112,2023-12-11,Hole Punch,Office Supplies,East,6,59,29.50
+ORD-113,2023-12-14,Bookcase Ladder,Furniture,North,1,499,149.70
+ORD-114,2023-12-17,Samsung Galaxy Watch,Electronics,West,4,796,238.80
+ORD-115,2023-12-20,Business Card Holder,Office Supplies,South,15,45,22.50
+ORD-116,2023-12-23,TV Unit Modern,Furniture,East,1,699,209.70
+ORD-117,2023-12-26,Garmin Fenix 7,Electronics,North,2,1398,419.40
+ORD-118,2023-12-29,Stamp Pad Set,Office Supplies,West,10,49,24.50
+ORD-119,2024-01-02,Kitchen Island,Furniture,South,1,899,269.70
+ORD-120,2024-01-05,Fitbit Sense 2,Electronics,East,3,599,179.70
+ORD-121,2024-01-08,Letter Tray,Office Supplies,North,8,39,19.50
+ORD-122,2024-01-11,Pantry Cabinet,Furniture,West,1,799,239.70
+ORD-123,2024-01-14,Amazfit GTR 4,Electronics,South,5,699,209.70
+ORD-124,2024-01-17,Label Maker,Office Supplies,East,3,119,59.50
+ORD-125,2024-01-20,Coffee Station,Furniture,North,1,549,164.70
+ORD-126,2024-01-23,Garmin Venu 2,Electronics,West,2,399,119.70
+ORD-127,2024-01-26,Drawer Dividers,Office Supplies,South,12,47,23.50
+ORD-128,2024-01-29,Sideboard Buffet,Furniture,East,1,899,269.70
+ORD-129,2024-02-02,Suunto 9 Peak,Electronics,North,2,599,179.70
+ORD-130,2024-02-05,Desk Globe,Office Supplies,West,4,79,39.50
+ORD-131,2024-02-08,Credenza Office,Furniture,South,1,1299,389.70
+ORD-132,2024-02-11,Polar Vantage V,Electronics,East,1,499,149.70
+ORD-133,2024-02-14,Memo Holder,Office Supplies,North,10,29,14.50
+ORD-134,2024-02-17,Hall Tree Coat,Furniture,West,1,399,119.70
+ORD-135,2024-02-20,Casio G-Shock,Electronics,South,3,449,134.70
+ORD-136,2024-02-23,Desktop Organizer,Office Supplies,East,6,89,44.50
+ORD-137,2024-02-26,Wine Cabinet,Furniture,North,1,699,209.70
+ORD-138,2024-03-01,Timex Ironman,Electronics,West,5,249,124.50
+ORD-139,2024-03-04,Magazine Rack,Office Supplies,South,3,44,22.00
+ORD-140,2024-03-07,Locker Storage,Furniture,East,2,498,149.40
+ORD-141,2024-03-10,Seiko Presage,Electronics,North,1,499,149.70
+ORD-142,2024-03-13,Document Frame,Office Supplies,West,8,55,27.50
+ORD-143,2024-03-16,Pet Crate Table,Furniture,South,1,249,74.70
+ORD-144,2024-03-19,Citizen Eco-Drive,Electronics,East,2,398,119.40
+ORD-145,2024-03-22,Calendar 2024,Office Supplies,North,5,49,24.50
+ORD-146,2024-03-25,Bar Cabinet,Furniture,West,1,799,239.70
+ORD-147,2024-03-28,Bulova Watch,Electronics,South,1,349,104.70
+ORD-148,2024-04-01,Planner Leather,Office Supplies,East,3,89,44.50
+ORD-149,2024-04-04,Kids Desk Set,Furniture,North,1,499,149.70
+ORD-150,2024-04-07,Tissot PRX,Electronics,West,1,399,119.70
+ORD-151,2024-04-10,Pen Cup Holder,Office Supplies,South,10,29,14.50
+ORD-152,2024-04-13,Bathroom Cabinet,Furniture,East,2,498,149.40
+ORD-153,2024-04-16,Fossil Gen 6,Electronics,North,2,299,89.70
+ORD-154,2024-04-19,Ink Cartridge Set,Office Supplies,West,6,119,59.50
+ORD-155,2024-04-22,Gaming Desk,Furniture,South,1,449,134.70
+ORD-156,2024-04-25,Moto Watch 100,Electronics,East,3,299,89.70
+ORD-157,2024-04-28,Toner Black,Office Supplies,North,4,159,79.50
+ORD-158,2024-05-02,Vanity Mirror,Furniture,West,1,249,74.70
+ORD-159,2024-05-05,TicWatch Pro 5,Electronics,South,2,349,104.70
+ORD-160,2024-05-08,Wireless Charger,Office Supplies,East,5,149,74.50
+ORD-161,2024-05-11,Jewelry Armoire,Furniture,North,1,399,119.70
+ORD-162,2024-05-14,Huawei Watch GT,Electronics,West,2,449,134.70
+ORD-163,2024-05-17,Power Bank 20000,Office Supplies,South,4,119,59.50
+ORD-164,2024-05-20,Electric Fireplace,Furniture,East,1,699,209.70
+ORD-165,2024-05-23,Withings ScanWatch,Electronics,North,1,299,89.70
+ORD-166,2024-05-26,Mouse Pad XL,Office Supplies,West,8,79,39.50
+ORD-167,2024-05-29,Floating Shelves,Furniture,South,3,179,53.70
+ORD-168,2024-06-02,Mobvoi TicWatch,Electronics,East,2,249,74.70
+ORD-169,2024-06-05,Monitor Stand,Office Supplies,North,5,149,74.50
+ORD-170,2024-06-08,Drawer Nightstand,Furniture,West,2,298,89.40
+ORD-171,2024-06-11,Amazfit Bip 5,Electronics,South,4,279,83.70
+ORD-172,2024-06-14,Laptop Sleeve,Office Supplies,East,6,89,44.50
+ORD-173,2024-06-17,Coffee Table Lift,Furniture,North,1,549,164.70
+ORD-174,2024-06-20,Kieslect Kr2,Electronics,West,2,199,59.70
+ORD-175,2024-06-23,Tablet Stand,Office Supplies,South,4,79,39.50
+ORD-176,2024-06-26,Ottoman Storage,Furniture,East,2,298,89.40
+ORD-177,2024-06-29,Noise ColorFit,Electronics,North,5,249,99.60
+ORD-178,2024-07-03,Phone Holder,Office Supplies,West,10,49,24.50
+ORD-179,2024-07-06,Accent Cabinet,Furniture,South,1,499,149.70
+ORD-180,2024-07-09,Realme Watch,Electronics,East,3,179,53.70
+ORD-181,2024-07-12,Cable Organizer,Office Supplies,North,8,59,29.50
+ORD-182,2024-07-15,Entryway Bench,Furniture,West,1,399,119.70
+ORD-183,2024-07-18,Fire-Boltt Ninja,Electronics,South,6,239,71.70
+ORD-184,2024-07-21,Headphone Stand,Office Supplies,East,3,49,24.50
+ORD-185,2024-07-24,Media Console,Furniture,North,1,799,239.70
+ORD-186,2024-07-27,boAt Storm,Electronics,West,5,199,59.70
+ORD-187,2024-07-30,Keyboard Wrist Rest,Office Supplies,South,4,39,19.50
+ORD-188,2024-08-03,Bookcase Corner,Furniture,East,1,449,134.70
+ORD-189,2024-08-06,Noise Fit,Electronics,North,4,179,53.70
+ORD-190,2024-08-09,Webcam Cover,Office Supplies,West,20,29,14.50
+ORD-191,2024-08-12,Twin Bed Frame,Furniture,South,1,399,119.70
+ORD-192,2024-08-15,Pebble Time,Electronics,East,2,149,44.70
+ORD-193,2024-08-18,Laptop Riser,Office Supplies,North,3,79,39.50
+ORD-194,2024-08-21,Lingerie Chest,Furniture,West,1,499,149.70
+ORD-195,2024-08-24,Zebronics Zeb,Electronics,South,3,149,44.70
+ORD-196,2024-08-27,Screen Cleaner,Office Supplies,East,6,39,19.50
+ORD-197,2024-08-30,Linen Cabinet,Furniture,North,1,599,179.70
+ORD-198,2024-09-03,Q&Q Watch,Electronics,West,4,119,35.70
+ORD-199,2024-09-06,Printer Stand,Office Supplies,South,2,89,44.50
+ORD-200,2024-09-09,Wardrobe Armoire,Furniture,East,1,999,299.70
+ORD-201,2023-01-08,MacBook Air M2,Electronics,North,1,1199,359.70
+ORD-202,2023-01-15,Samsung Neo QLED,Electronics,West,1,1999,599.70
+ORD-203,2023-01-22,Steelcase Leap Chair,Furniture,South,2,1398,419.40
+ORD-204,2023-02-05,Herman Miller Aeron,Furniture,East,1,1395,418.50
+ORD-205,2023-02-12,iPhone 14,Electronics,North,3,2397,719.10
+ORD-206,2023-02-19,Samsung S23 Ultra,Electronics,West,2,2398,719.40
+ORD-207,2023-03-05,Peloton Tread,Sports,South,1,3495,1048.50
+ORD-208,2023-03-12,NordicTrack Bike,Sports,East,1,1999,599.70
+ORD-209,2023-03-19,Bowflex Dumbbells,Sports,North,1,429,128.70
+ORD-210,2023-03-26,Yoga Mat Premium,Sports,West,5,199,79.60
+ORD-211,2023-04-02,Resistance Band Set,Sports,South,10,149,59.60
+ORD-212,2023-04-09,Foam Roller Set,Sports,East,3,89,35.60
+ORD-213,2023-04-16,Kettlebell 20kg,Sports,North,2,129,38.70
+ORD-214,2023-04-23,Jump Rope Speed,Sports,West,8,79,31.60
+ORD-215,2023-04-30,Battle Rope 40ft,Sports,South,1,119,35.70
+ORD-216,2023-05-07,Weight Bench Pro,Sports,East,1,349,104.70
+ORD-217,2023-05-14,Pull-up Bar Door,Sports,North,4,199,79.60
+ORD-218,2023-05-21,Punching Bag Set,Sports,West,1,249,74.70
+ORD-219,2023-05-28,Boxing Gloves Pro,Sports,South,2,179,53.70
+ORD-220,2023-06-04,Treadmill Compact,Sports,East,1,799,239.70
+ORD-221,2023-06-11,Exercise Bike Pro,Sports,North,1,599,179.70
+ORD-222,2023-06-18,Rowing Machine,Sports,West,1,1299,389.70
+ORD-223,2023-06-25,Smith Machine,Sports,South,1,2999,899.70
+ORD-224,2023-07-02,Cable Machine,Sports,East,1,2499,749.70
+ORD-225,2023-07-09,Leg Press Machine,Sports,North,1,1999,599.70
+ORD-226,2023-07-16,Dumbbell Set 50kg,Sports,West,1,449,134.70
+ORD-227,2023-07-23,Olympic Bar Set,Sports,South,1,349,104.70
+ORD-228,2023-07-30,Power Rack Cage,Sports,East,1,799,239.70
+ORD-229,2023-08-06,Weight Plates Set,Sports,North,2,398,119.40
+ORD-230,2023-08-13,Medicine Ball Set,Sports,West,3,149,59.70
+ORD-231,2023-08-20,Stability Ball,Sports,South,5,124,49.60
+ORD-232,2023-08-27,Bosu Ball Pro,Sports,East,2,199,79.60
+ORD-233,2023-09-03,Ab Roller Wheel,Sports,North,6,89,35.60
+ORD-234,2023-09-10,Push-up Handles,Sports,West,4,59,23.60
+ORD-235,2023-09-17,Parallettes Set,Sports,South,2,79,31.60
+ORD-236,2023-09-24,Dip Station,Sports,East,1,249,74.70
+ORD-237,2023-10-01,Climbing Rope,Sports,North,2,119,35.70
+ORD-238,2023-10-08,Peg Board,Sports,West,1,199,59.70
+ORD-239,2023-10-15,Gymnastic Rings,Sports,South,3,89,26.70
+ORD-240,2023-10-22,Agility Ladder,Sports,East,4,49,19.60
+ORD-241,2023-10-29,Speed Hurdles Set,Sports,North,6,79,31.60
+ORD-242,2023-11-05,Cones Training Set,Sports,West,10,49,19.60
+ORD-243,2023-11-12,Resistance Tubes,Sports,South,5,79,31.60
+ORD-244,2023-11-19,Ankle Weights,Sports,East,4,59,23.60
+ORD-245,2023-11-26,Wrist Weights,Sports,North,4,49,19.60
+ORD-246,2023-12-03,Weighted Vest,Sports,West,2,129,38.70
+ORD-247,2023-12-10,Gym Bag Pro,Sports,South,2,149,44.70
+ORD-248,2023-12-17,Shaker Bottle,Sports,East,8,55,27.50
+ORD-249,2023-12-24,Workout Gloves,Sports,North,3,59,23.60
+ORD-250,2023-12-31,Gym Belt Pro,Sports,West,2,79,31.60
+ORD-251,2024-01-07,Jump Box Plyo,Sports,South,1,199,59.70
+ORD-252,2024-01-14,Slam Ball Set,Sports,East,3,149,59.70
+ORD-253,2024-01-21,Tennis Racket Pro,Sports,North,2,299,89.70
+ORD-254,2024-01-28,Badminton Set,Sports,West,1,149,44.70
+ORD-255,2024-02-04,Ping Pong Table,Sports,South,1,699,209.70
+ORD-256,2024-02-11,Pickleball Set,Sports,East,2,129,38.70
+ORD-257,2024-02-18,Basketball Hoop,Sports,North,1,499,149.70
+ORD-258,2024-02-25,Soccer Goal Set,Sports,West,1,249,74.70
+ORD-259,2024-03-03,Volleyball Net,Sports,South,1,179,53.70
+ORD-260,2024-03-10,Golf Club Set,Sports,East,1,899,269.70
+ORD-261,2024-03-17,Baseball Bat Pro,Sports,North,2,199,59.70
+ORD-262,2024-03-24,Cricket Bat Set,Sports,West,1,249,74.70
+ORD-263,2024-03-31,Hockey Stick Pro,Sports,South,2,179,53.70
+ORD-264,2024-04-07,Lacrosse Set,Sports,East,1,149,44.70
+ORD-265,2024-04-14,Rugby Ball Set,Sports,North,3,119,35.70
+ORD-266,2024-04-21,Swimming Goggles,Sports,West,5,79,31.60
+ORD-267,2024-04-28,Snorkel Set Pro,Sports,South,2,129,38.70
+ORD-268,2024-05-05,Diving Fins,Sports,East,2,149,44.70
+ORD-269,2024-05-12,Surfboard Pro,Sports,North,1,699,209.70
+ORD-270,2024-05-19,Paddleboard,Sports,West,1,899,269.70
+ORD-271,2024-05-26,Kayak Pro,Sports,South,1,1299,389.70
+ORD-272,2024-06-02,Camping Tent,Sports,East,1,499,149.70
+ORD-273,2024-06-09,Sleeping Bag Pro,Sports,North,3,297,89.10
+ORD-274,2024-06-16,Hiking Backpack,Sports,West,2,199,59.70
+ORD-275,2024-06-23,Climbing Harness,Sports,South,2,179,53.70
+ORD-276,2024-06-30,Climbing Shoes,Sports,East,3,297,89.10
+ORD-277,2024-07-07,Cycling Helmet,Sports,North,4,199,79.60
+ORD-278,2024-07-14,Mountain Bike,Sports,West,1,1499,449.70
+ORD-279,2024-07-21,Road Bike Pro,Sports,South,1,2499,749.70
+ORD-280,2024-07-28,Electric Bike,Sports,East,1,2999,899.70
+ORD-281,2024-08-04,Skateboard Pro,Sports,North,2,199,59.70
+ORD-282,2024-08-11,Longboard Pro,Sports,West,2,249,74.70
+ORD-283,2024-08-18,Roller Skates,Sports,South,2,179,53.70
+ORD-284,2024-08-25,Ice Skates Pro,Sports,East,2,249,74.70
+ORD-285,2024-09-01,Ski Set Complete,Sports,North,1,999,299.70
+ORD-286,2024-09-08,Snowboard Pro,Sports,West,1,699,209.70
+ORD-287,2024-09-15,Fishing Rod Pro,Sports,South,2,299,89.70
+ORD-288,2024-09-22,Fishing Reel Set,Sports,East,3,237,71.10
+ORD-289,2024-09-29,Tackle Box Pro,Sports,North,1,149,44.70
+ORD-290,2024-10-06,Hunting Bow Set,Sports,West,1,699,209.70
+ORD-291,2024-10-13,Archery Set,Sports,South,1,399,119.70
+ORD-292,2024-10-20,Airsoft Gun Set,Sports,East,1,299,89.70
+ORD-293,2024-10-27,Paintball Gun,Sports,North,1,499,149.70
+ORD-294,2024-11-03,Drone Racing,Sports,West,1,799,239.70
+ORD-295,2024-11-10,RC Car Pro,Sports,South,2,398,119.40
+ORD-296,2024-11-17,RC Helicopter,Sports,East,1,299,89.70
+ORD-297,2024-11-24,RC Boat Pro,Sports,North,1,199,59.70
+ORD-298,2024-12-01,Model Train Set,Sports,West,1,349,104.70
+ORD-299,2024-12-08,Slot Car Track,Sports,South,1,249,74.70
+ORD-300,2024-12-15,Board Game Set,Sports,East,3,149,59.70
+ORD-301,2023-01-12,Office Desk Executive,Furniture,North,2,1598,479.40
+ORD-302,2023-01-19,Meeting Table 12,Furniture,West,1,2499,749.70
+ORD-303,2023-01-26,Reception Desk,Furniture,South,1,1899,569.70
+ORD-304,2023-02-02,Executive Chair,Furniture,East,3,1497,449.10
+ORD-305,2023-02-09,Task Chair Basic,Furniture,North,10,1999,599.70
+ORD-306,2023-02-16,Stacking Chair Set,Furniture,West,8,798,239.40
+ORD-307,2023-02-23,Folding Table Set,Furniture,South,4,596,178.80
+ORD-308,2023-03-02,Training Table,Furniture,East,6,1194,358.20
+ORD-309,2023-03-09,Break Table Round,Furniture,North,4,596,178.80
+ORD-310,2023-03-16,Chair Mat Large,Furniture,West,5,249,99.60
+ORD-311,2023-03-23,Monitor Arm Dual,Furniture,South,8,558,167.40
+ORD-312,2023-03-30,Keyboard Tray,Furniture,East,10,349,139.60
+ORD-313,2023-04-06,Power Strip 10,Furniture,North,15,445,178.00
+ORD-314,2023-04-13,Cable Management,Furniture,West,20,299,119.60
+ORD-315,2023-04-20,Desk Partition,Furniture,South,6,534,160.20
+ORD-316,2023-04-27,Whiteboard 6x4,Furniture,East,4,596,178.80
+ORD-317,2023-05-04,Notice Board,Furniture,North,5,345,103.50
+ORD-318,2023-05-11,Flip Chart Stand,Furniture,West,3,237,71.10
+ORD-319,2023-05-18,Projector Screen,Furniture,South,2,398,119.40
+ORD-320,2023-05-25,TV Wall Mount,Furniture,East,8,318,95.40
+ORD-321,2023-06-01,Speaker Stand,Furniture,North,4,196,58.80
+ORD-322,2023-06-08,Microphone Stand,Furniture,West,6,177,53.10
+ORD-323,2023-06-15,Lighting Desk Lamp,Furniture,South,10,499,199.60
+ORD-324,2023-06-22,Floor Lamp LED,Furniture,East,5,395,118.50
+ORD-325,2023-06-29,Overhead Light,Furniture,North,4,356,106.80
+ORD-326,2023-07-06,Task Light Pro,Furniture,West,8,318,95.40
+ORD-327,2023-07-13,Emergency Light,Furniture,South,6,234,70.20
+ORD-328,2023-07-20,Exit Sign Set,Furniture,East,4,156,46.80
+ORD-329,2023-07-27,Fire Extinguisher,Furniture,North,3,117,35.10
+ORD-330,2023-08-03,First Aid Kit,Furniture,West,5,145,58.00
+ORD-331,2023-08-10,Safety Sign Set,Furniture,South,3,87,26.10
+ORD-332,2023-08-17,Door Sign Custom,Furniture,East,10,99,49.50
+ORD-333,2023-08-24,Name Plate Set,Furniture,North,8,119,47.60
+ORD-334,2023-08-31,Coat Hook Rail,Furniture,West,6,89,26.70
+ORD-335,2023-09-07,Umbrella Stand,Furniture,South,4,76,22.80
+ORD-336,2023-09-14,Shoe Rack 20,Furniture,East,3,117,35.10
+ORD-337,2023-09-21,Storage Locker,Furniture,North,2,258,77.40
+ORD-338,2023-09-28,Supply Cabinet,Furniture,West,1,399,119.70
+ORD-339,2023-10-05,Archive Box Set,Furniture,South,10,199,79.60
+ORD-340,2023-10-12,Moving Dolly,Furniture,East,2,158,47.40
+ORD-341,2023-10-19,Hand Truck,Furniture,North,2,138,41.40
+ORD-342,2023-10-26,Platform Cart,Furniture,West,1,149,44.70
+ORD-343,2023-11-02,Ladder Step,Furniture,South,3,177,53.10
+ORD-344,2023-11-09,Ladder Extension,Furniture,East,1,299,89.70
+ORD-345,2023-11-16,Scaffolding Set,Furniture,North,1,599,179.70
+ORD-346,2023-11-23,Work Light Set,Furniture,West,4,196,58.80
+ORD-347,2023-11-30,Extension Cord,Furniture,South,8,119,47.60
+ORD-348,2023-12-07,Power Tool Set,Furniture,East,1,799,239.70
+ORD-349,2023-12-14,Tool Box Pro,Furniture,North,2,298,89.40
+ORD-350,2023-12-21,Tool Belt Set,Furniture,West,4,99,39.60
+ORD-351,2023-12-28,Safety Glasses,Furniture,South,10,79,31.60
+ORD-352,2024-01-04,Work Gloves Set,Furniture,East,15,89,35.60
+ORD-353,2024-01-11,Hard Hat Set,Furniture,North,5,99,39.60
+ORD-354,2024-01-18,Safety Vest Set,Furniture,West,8,79,31.60
+ORD-355,2024-01-25,Ear Protection,Furniture,South,6,59,23.60
+ORD-356,2024-02-01,Dust Mask Set,Furniture,East,20,79,31.60
+ORD-357,2024-02-08,Knee Pads Pro,Furniture,North,4,79,31.60
+ORD-358,2024-02-15,Tool Organizer,Furniture,West,3,117,35.10
+ORD-359,2024-02-22,Parts Washer,Furniture,South,1,249,74.70
+ORD-360,2024-02-29,Vise Pro,Furniture,East,1,149,44.70
+ORD-361,2024-03-07,Workbench Pro,Furniture,North,1,599,179.70
+ORD-362,2024-03-14,pegboard Set,Furniture,West,2,158,47.40
+ORD-363,2024-03-21,Drawer Cabinet,Furniture,South,1,299,89.70
+ORD-364,2024-03-28,Bin Storage Set,Furniture,East,5,199,79.60
+ORD-365,2024-04-04,Shelving Unit,Furniture,North,2,298,89.40
+ORD-366,2024-04-11,Pallet Rack,Furniture,West,1,499,149.70
+ORD-367,2024-04-18,Cantilever Rack,Furniture,South,1,699,209.70
+ORD-368,2024-04-25,Warehouse Shelf,Furniture,East,2,498,149.40
+ORD-369,2024-05-02,Wire Shelving,Furniture,North,3,297,89.10
+ORD-370,2024-05-09,Corner Shelf,Furniture,West,4,196,58.80
+ORD-371,2024-05-16,Floating Desk,Furniture,South,1,449,134.70
+ORD-372,2024-05-23,Wall Desk Fold,Furniture,East,1,349,104.70
+ORD-373,2024-05-30,Laptop Desk,Furniture,North,2,298,89.40
+ORD-374,2024-06-06,Standing Mat,Furniture,West,5,145,58.00
+ORD-375,2024-06-13,Wrist Rest Set,Furniture,South,8,79,31.60
+ORD-376,2024-06-20,Document Holder,Furniture,East,6,89,26.70
+ORD-377,2024-06-27,Monitor Riser,Furniture,North,4,99,39.60
+ORD-378,2024-07-04,Laptop Stand Alum,Furniture,West,5,145,58.00
+ORD-379,2024-07-11,Phone Stand Desk,Furniture,South,10,79,31.60
+ORD-380,2024-07-18,Tablet Holder Pro,Furniture,East,6,89,26.70
+ORD-381,2024-07-25,Headset Stand,Furniture,North,4,79,31.60
+ORD-382,2024-08-01,Controller Holder,Furniture,West,3,45,13.50
+ORD-383,2024-08-08,Game Storage Rack,Furniture,South,2,59,17.70
+ORD-384,2024-08-15,Disc Storage Tower,Furniture,East,1,49,14.70
+ORD-385,2024-08-22,Vinyl Record Shelf,Furniture,North,1,149,44.70
+ORD-386,2024-08-29,Book Display Stand,Furniture,West,2,79,23.70
+ORD-387,2024-09-05,Picture Ledge,Furniture,South,4,79,23.70
+ORD-388,2024-09-12,Plate Display Rack,Furniture,East,2,59,17.70
+ORD-389,2024-09-19,Wine Glass Rack,Furniture,North,1,89,26.70
+ORD-390,2024-09-26,Spice Rack Wall,Furniture,West,3,59,17.70
+ORD-391,2024-10-03,Pot Rack Ceiling,Furniture,South,1,149,44.70
+ORD-392,2024-10-10,Utensil Holder,Furniture,East,4,39,11.70
+ORD-393,2024-10-17,Kitchen Island Cart,Furniture,North,1,399,119.70
+ORD-394,2024-10-24,Baker's Rack,Furniture,West,1,249,74.70
+ORD-395,2024-10-31,Pantry Organizer,Furniture,South,2,99,29.70
+ORD-396,2024-11-07,Trash Can Set,Furniture,East,3,89,26.70
+ORD-397,2024-11-14,Recycle Bin Set,Furniture,North,2,79,23.70
+ORD-398,2024-11-21,Laundry Sorter,Furniture,West,1,129,38.70
+ORD-399,2024-11-28,Hamper Rolling,Furniture,South,2,99,29.70
+ORD-400,2024-12-05,Over Door Hook,Furniture,East,6,59,17.70
+ORD-401,2023-01-14,Surface Laptop 5,Electronics,North,2,2398,719.40
+ORD-402,2023-01-21,iMac 24 M1,Electronics,West,1,1499,449.70
+ORD-403,2023-01-28,Studio Display,Electronics,South,1,1599,479.70
+ORD-404,2023-02-04,Pro Display XDR,Electronics,East,1,4999,1499.70
+ORD-405,2023-02-11,ASUS ROG Monitor,Electronics,North,1,1299,389.70
+ORD-406,2023-02-18,Alienware Monitor,Electronics,West,2,1798,539.40
+ORD-407,2023-02-25,Samsung Odyssey,Electronics,South,1,1499,449.70
+ORD-408,2023-03-04,LG UltraGear,Electronics,East,2,1398,419.40
+ORD-409,2023-03-11,BenQ DesignVue,Electronics,North,1,899,269.70
+ORD-410,2023-03-18,EIZO ColorEdge,Electronics,West,1,2499,749.70
+ORD-411,2023-03-25,ViewSonic Pro,Electronics,South,2,998,299.40
+ORD-412,2023-04-01,AOC Agon Pro,Electronics,East,1,1799,539.70
+ORD-413,2023-04-08,Gigabyte AORUS,Electronics,North,1,1299,389.70
+ORD-414,2023-04-15,MSI Optix,Electronics,West,2,1198,359.40
+ORD-415,2023-04-22,Philips Momentum,Electronics,South,1,999,299.70
+ORD-416,2023-04-29,Acer Predator,Electronics,East,1,1399,419.70
+ORD-417,2023-05-06,Razer Blade 15,Electronics,North,1,2499,749.70
+ORD-418,2023-05-13,ASUS Zephyrus,Electronics,West,1,2299,689.70
+ORD-419,2023-05-20,MSI Stealth,Electronics,South,1,1999,599.70
+ORD-420,2023-05-27,Alienware M18,Electronics,East,1,2899,869.70
+ORD-421,2023-06-03,HP Omen 16,Electronics,North,1,1799,539.70
+ORD-422,2023-06-10,Lenovo Legion,Electronics,West,1,1999,599.70
+ORD-423,2023-06-17, Acer Nitro 16,Electronics,South,1,1299,389.70
+ORD-424,2023-06-24,Dell G16 Gaming,Electronics,East,1,1699,509.70
+ORD-425,2023-07-01,Origin PC EON,Electronics,North,1,3499,1049.70
+ORD-426,2023-07-08,Maingear Vector,Electronics,West,1,2799,839.70
+ORD-427,2023-07-15,Eluktronics,Electronics,South,1,2299,689.70
+ORD-428,2023-07-22,XMG Neo 17,Electronics,East,1,2499,749.70
+ORD-429,2023-07-29,Schenker XMG,Electronics,North,1,2199,659.70
+ORD-430,2023-08-05,Razer Blade 18,Electronics,West,1,3499,1049.70
+ORD-431,2023-08-12,ROG Strix G18,Electronics,South,1,2999,899.70
+ORD-432,2023-08-19,MSI Titan GT77,Electronics,East,1,4499,1349.70
+ORD-433,2023-08-26,Alienware x18,Electronics,North,1,3799,1139.70
+ORD-434,2023-09-02,HP ZBook Fury,Electronics,West,1,3999,1199.70
+ORD-435,2023-09-09,Dell Precision,Electronics,South,1,3499,1049.70
+ORD-436,2023-09-16,Lenovo ThinkPad,Electronics,East,1,2799,839.70
+ORD-437,2023-09-23,MSI CreatorPro,Electronics,North,1,2999,899.70
+ORD-438,2023-09-30,ASUS ProArt,Electronics,West,1,2499,749.70
+ORD-439,2023-10-07,Mac Studio M2,Electronics,South,1,1999,599.70
+ORD-440,2023-10-14,Mac Pro 2023,Electronics,East,1,6999,2099.70
+ORD-441,2023-10-21,Dell Precision T,Electronics,North,1,4999,1499.70
+ORD-442,2023-10-28,HP Z8 G4,Electronics,West,1,5999,1799.70
+ORD-443,2023-11-04,Lenovo P620,Electronics,South,1,4499,1349.70
+ORD-444,2023-11-11,ASUS Pro WS,Electronics,East,1,3499,1049.70
+ORD-445,2023-11-18,NVIDIA RTX 4090,Electronics,North,2,3598,1079.40
+ORD-446,2023-11-25,NVIDIA RTX 4080,Electronics,West,3,3597,899.10
+ORD-447,2023-12-02,AMD RX 7900,Electronics,South,2,1998,599.40
+ORD-448,2023-12-09,Intel Arc A770,Electronics,East,3,897,269.10
+ORD-449,2023-12-16,RTX 4070 Ti,Electronics,North,4,3196,799.00
+ORD-450,2023-12-23,RTX 4060 Ti,Electronics,West,5,2495,624.80
+ORD-451,2023-12-30,RX 7800 XT,Electronics,South,4,1996,498.80
+ORD-452,2024-01-06,RX 7700 XT,Electronics,East,5,2245,562.80
+ORD-453,2024-01-13,RTX 4050,Electronics,North,6,1794,448.20
+ORD-454,2024-01-20,GTX 1660 Super,Electronics,West,8,1992,498.00
+ORD-455,2024-01-27,RX 6600 XT,Electronics,South,6,1794,448.20
+ORD-456,2024-02-03,Core i9-14900K,Electronics,East,3,897,269.10
+ORD-457,2024-02-10,Core i7-14700K,Electronics,North,4,996,249.00
+ORD-458,2024-02-17,Core i5-14600K,Electronics,West,5,895,223.80
+ORD-459,2024-02-24,Ryzen 9 7950X,Electronics,South,3,897,269.10
+ORD-460,2024-03-02,Ryzen 7 7800X3D,Electronics,East,4,996,249.00
+ORD-461,2024-03-09,Ryzen 5 7600X,Electronics,North,5,895,223.80
+ORD-462,2024-03-16,DDR5 RAM 64GB,Electronics,West,6,1194,298.80
+ORD-463,2024-03-23,DDR5 RAM 32GB,Electronics,South,8,992,248.00
+ORD-464,2024-03-30,SSD NVMe 4TB,Electronics,East,4,1196,299.00
+ORD-465,2024-04-06,SSD NVMe 2TB,Electronics,North,6,1194,298.80
+ORD-466,2024-04-13,HDD 8TB NAS,Electronics,West,5,995,249.00
+ORD-467,2024-04-20,PSU 1000W Gold,Electronics,South,8,1192,298.00
+ORD-468,2024-04-27,CPU Cooler AIO,Electronics,East,5,895,223.80
+ORD-469,2024-05-04,Case ATX Glass,Electronics,North,4,796,199.00
+ORD-470,2024-05-11,Fans RGB Set,Electronics,West,10,698,174.50
+ORD-471,2024-05-18,Wireless Router,Electronics,South,6,897,269.10
+ORD-472,2024-05-25,Mesh WiFi 6E,Electronics,East,4,996,249.00
+ORD-473,2024-06-01,NAS 4-Bay,Electronics,North,2,798,239.40
+ORD-474,2024-06-08,UPS 1500VA,Electronics,West,3,897,269.10
+ORD-475,2024-06-15,KVM Switch 4K,Electronics,South,5,795,198.80
+ORD-476,2024-06-22,USB-C Hub Pro,Electronics,East,8,636,159.00
+ORD-477,2024-06-29,Thunderbolt 4,Electronics,North,4,796,199.00
+ORD-478,2024-07-06,Network Switch 8,Electronics,West,6,474,118.50
+ORD-479,2024-07-13,Network Switch 24,Electronics,South,3,596,149.00
+ORD-480,2024-07-20,Firewall Appliance,Electronics,East,2,798,239.40
+ORD-481,2024-07-27,Server Rack 12U,Electronics,North,1,599,179.70
+ORD-482,2024-08-03,Patch Panel 24,Electronics,West,2,298,89.40
+ORD-483,2024-08-10,Cat6 Cable 1000,Electronics,South,5,495,148.50
+ORD-484,2024-08-17,Fiber Cable Set,Electronics,East,3,447,111.80
+ORD-485,2024-08-24,Cable Tester Pro,Electronics,North,2,198,59.40
+ORD-486,2024-08-31,Crimping Tool Set,Electronics,West,4,156,46.80
+ORD-487,2024-09-07,Punch Down Tool,Electronics,South,6,89,26.70
+ORD-488,2024-09-14,RJ45 Connector Set,Electronics,East,10,99,49.50
+ORD-489,2024-09-21,Keystone Jack Set,Electronics,North,8,119,47.60
+ORD-490,2024-09-28,Wall Plate Set,Electronics,West,15,89,35.60
+ORD-491,2024-10-05,Conduit 1-inch,Electronics,South,20,139,55.60
+ORD-492,2024-10-12,Wire Mold Set,Electronics,East,10,149,59.60
+ORD-493,2024-10-19,Cable Trunking,Electronics,North,8,119,47.60
+ORD-494,2024-10-26,Label Printer Pro,Electronics,West,3,297,89.10
+ORD-495,2024-11-02,Thermal Labels,Electronics,South,20,99,49.50
+ORD-496,2024-11-09,Barcode Scanner,Electronics,East,4,396,99.00
+ORD-497,2024-11-16,Receipt Printer,Electronics,North,2,398,119.40
+ORD-498,2024-11-23,Cash Drawer Pro,Electronics,West,3,297,89.10
+ORD-499,2024-11-30,POS Terminal,Electronics,South,1,799,239.70
+ORD-500,2024-12-07,Payment Terminal,Electronics,East,2,598,179.40
+ORD-501,2023-01-10,HP Paper A4 500,Office Supplies,North,20,199,79.60
+ORD-502,2023-01-17,Canon Ink Set,Office Supplies,West,8,239,95.60
+ORD-503,2023-01-24,HP Toner Black,Office Supplies,South,5,449,179.60
+ORD-504,2023-01-31,Brother Drum Unit,Office Supplies,East,3,267,106.80
+ORD-505,2023-02-07,Epson Ink Bottle,Office Supplies,North,10,149,59.60
+ORD-506,2023-02-14,Paper Ream 5,Office Supplies,West,15,149,59.60
+ORD-507,2023-02-21,Envelope 500,Office Supplies,South,8,79,31.60
+ORD-508,2023-02-28,Folders Box 100,Office Supplies,East,4,119,47.60
+ORD-509,2023-03-07,Binders 25 Pack,Office Supplies,North,3,89,35.60
+ORD-510,2023-03-14,Dividers Set 8,Office Supplies,West,10,79,31.60
+ORD-511,2023-03-21,Sheet Protectors,Office Supplies,South,15,69,27.60
+ORD-512,2023-03-28,Report Covers 50,Office Supplies,East,8,59,23.60
+ORD-513,2023-04-04,Clip Boards 10,Office Supplies,North,5,49,19.60
+ORD-514,2023-04-11,Desk Organizer 5,Office Supplies,West,6,89,35.60
+ORD-515,2023-04-18,Pencil Cup Set,Office Supplies,South,10,49,19.60
+ORD-516,2023-04-25,Letter Tray 3,Office Supplies,East,8,59,23.60
+ORD-517,2023-05-02,File Cart Rolling,Office Supplies,North,2,89,35.60
+ORD-518,2023-05-09,Magazine File 12,Office Supplies,West,4,59,23.60
+ORD-519,2023-05-16,Desktop Sorter,Office Supplies,South,6,79,31.60
+ORD-520,2023-05-23,Wastebasket Desk,Office Supplies,East,5,49,19.60
+ORD-521,2023-05-30,Recycle Bin Desk,Office Supplies,North,5,39,15.60
+ORD-522,2023-06-06,Shredder Cross,Office Supplies,West,2,158,63.20
+ORD-523,2023-06-13,Laminator A3,Office Supplies,South,1,89,35.60
+ORD-524,2023-06-20,Binder Machine,Office Supplies,East,1,79,31.60
+ORD-525,2023-06-27,Paper Cutter,Office Supplies,North,2,99,39.60
+ORD-526,2023-07-04,Scissors Set 5,Office Supplies,West,8,59,23.60
+ORD-527,2023-07-11,Stapler Heavy 100,Office Supplies,South,6,79,31.60
+ORD-528,2023-07-18,Staples Box 5000,Office Supplies,East,15,39,15.60
+ORD-529,2023-07-25,Paper Clips 1000,Office Supplies,North,20,29,11.60
+ORD-530,2023-08-01,Binder Clips 144,Office Supplies,West,12,39,15.60
+ORD-531,2023-08-08,Rubber Bands 1lb,Office Supplies,South,10,29,11.60
+ORD-532,2023-08-15,Push Pins 200,Office Supplies,East,15,19,7.60
+ORD-533,2023-08-22,Thumb Tacks 200,Office Supplies,North,15,19,7.60
+ORD-534,2023-08-29,Tape Dispenser 3,Office Supplies,West,8,39,15.60
+ORD-535,2023-09-05,Invisible Tape 12,Office Supplies,South,10,39,15.60
+ORD-536,2023-09-12,Packaging Tape 6,Office Supplies,East,8,39,15.60
+ORD-537,2023-09-19,Double Sided Tape,Office Supplies,North,12,29,11.60
+ORD-538,2023-09-26,Mounting Tape,Office Supplies,West,10,39,15.60
+ORD-539,2023-10-03,Glue Sticks 30,Office Supplies,South,15,29,11.60
+ORD-540,2023-10-10,Glue Bottle 4oz,Office Supplies,East,12,29,11.60
+ORD-541,2023-10-17,Super Glue 12 Pack,Office Supplies,North,10,29,11.60
+ORD-542,2023-10-24,Glue Gun Set,Office Supplies,West,5,49,19.60
+ORD-543,2023-10-31,Glue Sticks 50,Office Supplies,South,8,29,11.60
+ORD-544,2023-11-07,Whiteboard 6 Pack,Office Supplies,East,4,89,35.60
+ORD-545,2023-11-14,Markers Dry 24,Office Supplies,North,8,39,15.60
+ORD-546,2023-11-21,Markers Wet 12,Office Supplies,West,10,29,11.60
+ORD-547,2023-11-28,Highlighters 24,Office Supplies,South,8,39,15.60
+ORD-548,2023-12-05,Permanent Markers,Office Supplies,East,12,29,11.60
+ORD-549,2023-12-12,Paint Markers 12,Office Supplies,North,6,39,15.60
+ORD-550,2023-12-19,Chalk Markers 8,Office Supplies,West,8,39,15.60
+ORD-551,2023-12-26,Pens Ball 60,Office Supplies,South,10,29,11.60
+ORD-552,2024-01-02,Pens Gel 36,Office Supplies,East,8,39,15.60
+ORD-553,2024-01-09,Pens Roller 24,Office Supplies,North,6,39,15.60
+ORD-554,2024-01-16,Pens Fountain 6,Office Supplies,West,4,59,23.60
+ORD-555,2024-01-23,Pen Sets Premium,Office Supplies,South,3,89,35.60
+ORD-556,2024-01-30,Pencils #2 144,Office Supplies,East,15,29,11.60
+ORD-557,2024-02-06,Pencils Mechanical,Office Supplies,North,20,39,15.60
+ORD-558,2024-02-13,Lead Refill 30,Office Supplies,West,12,29,11.60
+ORD-559,2024-02-20,Erasers 24 Pack,Office Supplies,South,15,19,7.60
+ORD-560,2024-02-27,Sharpener Set 6,Office Supplies,East,10,19,7.60
+ORD-561,2024-03-06,Ruler Set 6,Office Supplies,North,8,19,7.60
+ORD-562,2024-03-13,Protractor Set 6,Office Supplies,West,10,19,7.60
+ORD-563,2024-03-20,Compass Set 6,Office Supplies,South,8,29,11.60
+ORD-564,2024-03-27,Calculator Basic 10,Office Supplies,East,6,39,15.60
+ORD-565,2024-04-03,Calculator Scientific,Office Supplies,North,4,59,23.60
+ORD-566,2024-04-10,Calculator Printing,Office Supplies,West,3,89,35.60
+ORD-567,2024-04-17,Desk Clock Digital,Office Supplies,South,5,49,19.60
+ORD-568,2024-04-24,Wall Clock Office,Office Supplies,East,3,59,23.60
+ORD-569,2024-05-01,Calendar 2024,Office Supplies,North,8,39,15.60
+ORD-570,2024-05-08,Planner 2024,Office Supplies,West,6,49,19.60
+ORD-571,2024-05-15,Address Book,Office Supplies,South,4,39,15.60
+ORD-572,2024-05-22,Notebook Spiral 12,Office Supplies,East,10,39,15.60
+ORD-573,2024-05-29,Notebook Leather,Office Supplies,North,5,59,23.60
+ORD-574,2024-06-05,Composition Book 6,Office Supplies,West,8,29,11.60
+ORD-575,2024-06-12,Legal Pad 12,Office Supplies,South,10,29,11.60
+ORD-576,2024-06-19,Steno Book 6,Office Supplies,East,8,19,7.60
+ORD-577,2024-06-26,Post-it Notes 24,Office Supplies,North,10,39,15.60
+ORD-578,2024-07-03,Sticky Notes Set,Office Supplies,West,8,39,15.60
+ORD-579,2024-07-10,Flags 400 Pack,Office Supplies,South,12,29,11.60
+ORD-580,2024-07-17,Tabs 192 Pack,Office Supplies,East,10,29,11.60
+ORD-581,2024-07-24,Labels 3000 Pack,Office Supplies,North,6,39,15.60
+ORD-582,2024-07-31,Labels Shipping,Office Supplies,West,8,29,11.60
+ORD-583,2024-08-07,Name Badges 100,Office Supplies,South,5,39,15.60
+ORD-584,2024-08-14,Badge Holders 50,Office Supplies,East,6,29,11.60
+ORD-585,2024-08-21,Lanyards 50 Pack,Office Supplies,North,8,29,11.60
+ORD-586,2024-08-28,Stamp Custom,Office Supplies,West,3,59,23.60
+ORD-587,2024-09-04,Stamp Pre-Inked,Office Supplies,South,4,49,19.60
+ORD-588,2024-09-11,Ink Pad Set 6,Office Supplies,East,6,29,11.60
+ORD-589,2024-09-18,Stamp Pad Black,Office Supplies,North,8,19,7.60
+ORD-590,2024-09-25,Tape Correction 12,Office Supplies,West,10,29,11.60
+ORD-591,2024-10-02,Correction Fluid,Office Supplies,South,12,19,7.60
+ORD-592,2024-10-09,Erasers Ink 24,Office Supplies,East,15,19,7.60
+ORD-593,2024-10-16,Hole Punch 3,Office Supplies,North,6,39,15.60
+ORD-594,2024-10-23,Hole Punch Single,Office Supplies,West,8,19,7.60
+ORD-595,2024-10-30,Paper Drill,Office Supplies,South,4,49,19.60
+ORD-596,2024-11-06,Binding Combs 100,Office Supplies,East,8,39,15.60
+ORD-597,2024-11-13,Binding Covers 50,Office Supplies,North,6,39,15.60
+ORD-598,2024-11-20,Binding Spines 100,Office Supplies,West,10,29,11.60
+ORD-599,2024-11-27,Cable Organizers 10,Office Supplies,South,8,39,15.60
+ORD-600,2024-12-04,Cord Covers 6,Office Supplies,East,6,49,19.60
+ORD-601,2023-01-11,Sony A7R V,Electronics,North,1,3899,1169.70
+ORD-602,2023-01-18,Nikon Z8,Electronics,West,1,3999,1199.70
+ORD-603,2023-01-25,Canon R6 II,Electronics,South,2,4998,1499.40
+ORD-604,2023-02-01,Panasonic S5 II,Electronics,East,1,2199,659.70
+ORD-605,2023-02-08,Leica Q3,Electronics,North,1,5995,1798.50
+ORD-606,2023-02-15,Fujifilm GFX,Electronics,West,1,5499,1649.70
+ORD-607,2023-02-22,Hasselblad X2D,Electronics,South,1,8199,2459.70
+ORD-608,2023-03-01,Olympus OM-1,Electronics,East,1,2199,659.70
+ORD-609,2023-03-08,Pentax K-1 II,Electronics,North,1,1799,539.70
+ORD-610,2023-03-15,Sony FX30,Electronics,West,1,1799,539.70
+ORD-611,2023-03-22,Canon C70,Electronics,South,1,5499,1649.70
+ORD-612,2023-03-29,Sony FX6,Electronics,East,1,5998,1799.40
+ORD-613,2023-04-05,Blackmagic 6K,Electronics,North,2,4798,1199.50
+ORD-614,2023-04-12,Panasonic GH6,Electronics,West,1,2199,659.70
+ORD-615,2023-04-19,Nikon Z9,Electronics,South,1,5499,1649.70
+ORD-616,2023-04-26,Sony 70-200 GM,Electronics,East,2,5198,1559.40
+ORD-617,2023-05-03,Canon 70-200 L,Electronics,North,2,4798,1439.40
+ORD-618,2023-05-10,Nikon 70-200 E,Electronics,West,2,4398,1319.40
+ORD-619,2023-05-17,Sony 24-70 GM,Electronics,South,3,5997,1799.10
+ORD-620,2023-05-24,Canon 24-70 L,Electronics,East,3,6297,1889.10
+ORD-621,2023-05-31,Nikon 24-70 E,Electronics,North,2,3998,1199.40
+ORD-622,2023-06-07,Sony 16-35 GM,Electronics,West,2,4398,1319.40
+ORD-623,2023-06-14,Canon 16-35 L,Electronics,South,2,4198,1259.40
+ORD-624,2023-06-21,Nikon 14-24 Z,Electronics,East,2,4398,1319.40
+ORD-625,2023-06-28,DJI RS3 Pro,Electronics,North,1,729,218.70
+ORD-626,2023-07-05,DJI RS4 Pro,Electronics,West,1,999,299.70
+ORD-627,2023-07-12,Zhiyun Crane 4,Electronics,South,1,549,164.70
+ORD-628,2023-07-19,Manfrotto 504X,Electronics,East,1,899,269.70
+ORD-629,2023-07-26,Sachtler FSB8,Electronics,North,1,2199,659.70
+ORD-630,2023-08-02,Peak Design,Electronics,West,3,449,134.70
+ORD-631,2023-08-09,Lowepro ProTrek,Electronics,South,2,399,119.70
+ORD-632,2023-08-16,Think Tank Airport,Electronics,East,2,499,149.70
+ORD-633,2023-08-23,Godox AD600 Pro,Electronics,North,2,2198,659.40
+ORD-634,2023-08-30,Profoto B10 Plus,Electronics,West,2,3998,1199.40
+ORD-635,2023-09-06,Broncolor Move,Electronics,South,1,4999,1499.70
+ORD-636,2023-09-13,Elinchrom ELB,Electronics,East,1,2499,749.70
+ORD-637,2023-09-20,Aputure 600D Pro,Electronics,North,2,2398,719.40
+ORD-638,2023-09-27,Nanlite Forza,Electronics,West,3,2097,629.10
+ORD-639,2023-10-04,ARRI SkyPanel,Electronics,South,1,6999,2099.70
+ORD-640,2023-10-11,Aputure Nova,Electronics,East,2,1798,539.40
+ORD-641,2023-10-18,Godox VL300,Electronics,North,3,1197,359.10
+ORD-642,2023-10-25,Westcott Flex,Electronics,West,4,1196,358.80
+ORD-643,2023-11-01,Rosco DMG Lumiere,Electronics,South,2,1498,449.40
+ORD-644,2023-11-08,Zoom H6,Electronics,East,3,627,188.10
+ORD-645,2023-11-15,Sound Devices MixPre,Electronics,North,2,1998,599.40
+ORD-646,2023-11-22,Sennheiser MKH416,Electronics,West,2,1998,599.40
+ORD-647,2023-11-29,Rode NTG5,Electronics,South,3,1497,449.10
+ORD-648,2023-12-06,Shure SM7B,Electronics,East,4,1596,478.80
+ORD-649,2023-12-13,Neumann TLM103,Electronics,North,2,1998,599.40
+ORD-650,2023-12-20,Audio Technica 4053b,Electronics,West,3,1797,539.10
+ORD-651,2023-12-27,DPA 4017C,Electronics,South,2,1798,539.40
+ORD-652,2024-01-03,Schoeps CMC6,Electronics,East,1,2299,689.70
+ORD-653,2024-01-10,Sennheiser G4,Electronics,North,4,2396,718.80
+ORD-654,2024-01-17,Sony UWP,Electronics,West,4,2196,658.80
+ORD-655,2024-01-24,Rode Wireless PRO,Electronics,South,5,1495,448.50
+ORD-656,2024-01-31,DJI Mic 2,Electronics,East,6,1794,538.20
+ORD-657,2024-02-07,Hollyland Lark,Electronics,North,8,1592,477.60
+ORD-658,2024-02-14,Czuv AS2 Pro,Electronics,West,6,897,269.10
+ORD-659,2024-02-21,Movo WMX-1,Electronics,South,10,992,298.80
+ORD-660,2024-02-28,Godox SL150,Electronics,East,5,995,249.00
+ORD-661,2024-03-06,Nanlux Evoke,Electronics,North,3,1497,449.10
+ORD-662,2024-03-13,Yongnuo YN600,Electronics,West,8,1192,298.00
+ORD-663,2024-03-20,GVM 800D,Electronics,South,10,995,249.00
+ORD-664,2024-03-27,Neewer 660,Electronics,East,12,952,286.00
+ORD-665,2024-04-03,Fovitec Softbox,Electronics,North,6,534,160.20
+ORD-666,2024-04-10,Godox Softbox,Electronics,West,8,392,117.60
+ORD-667,2024-04-17,Chimera Bank,Electronics,South,4,596,178.80
+ORD-668,2024-04-24,Lastolite Diffuser,Electronics,East,6,294,88.20
+ORD-669,2024-05-01,Manfrotto Stand,Electronics,North,8,632,189.60
+ORD-670,2024-05-08,Avenger Stand,Electronics,West,6,594,178.20
+ORD-671,2024-05-15,Matthews C-Stand,Electronics,South,4,476,142.80
+ORD-672,2024-05-22,Impact Stand,Electronics,East,8,392,117.60
+ORD-673,2024-05-29,Neewer Stand,Electronics,North,12,348,104.40
+ORD-674,2024-06-05,Sekonic L-858D,Electronics,West,2,798,239.40
+ORD-675,2024-06-12,Kenko Meter,Electronics,South,3,447,134.10
+ORD-676,2024-06-19,X-Rite i1Display,Electronics,East,4,796,238.80
+ORD-677,2024-06-26,Datacolor SpyderX,Electronics,North,5,745,223.50
+ORD-678,2024-07-03,Eizo ColorEdge,Electronics,West,1,2499,749.70
+ORD-679,2024-07-10,ASUS ProArt PA,Electronics,South,2,1998,599.40
+ORD-680,2024-07-17,Dell UltraSharp,Electronics,East,3,2697,809.10
+ORD-681,2024-07-24,HP DreamColor,Electronics,North,2,2398,719.40
+ORD-682,2024-07-31,BenQ SW321C,Electronics,West,2,2198,659.40
+ORD-683,2024-08-07,LaCie 1big,Electronics,South,1,999,299.70
+ORD-684,2024-08-14,G-Technology Studio,Electronics,East,2,1398,419.40
+ORD-685,2024-08-21,Samsung T7 Shield,Electronics,North,5,745,223.50
+ORD-686,2024-08-28,SanDisk Extreme,Electronics,West,8,632,189.60
+ORD-687,2024-09-04,WD Black D50,Electronics,South,3,747,224.10
+ORD-688,2024-09-11,Crucial X8,Electronics,East,6,714,214.20
+ORD-689,2024-09-18,Seagate One Touch,Electronics,North,8,392,117.60
+ORD-690,2024-09-25,Toshiba Canvio,Electronics,West,10,490,147.00
+ORD-691,2024-10-02,Synology DS923,Electronics,South,1,699,209.70
+ORD-692,2024-10-09,QNAP TVS-672,Electronics,East,1,899,269.70
+ORD-693,2024-10-16,Asustor Locker,Electronics,North,2,698,209.40
+ORD-694,2024-10-23,TerraMaster F4,Electronics,West,3,747,224.10
+ORD-695,2024-10-30,Buffalo LinkStation,Electronics,South,4,596,178.80
+ORD-696,2024-11-06,iStarUSA Server,Electronics,East,1,1299,389.70
+ORD-697,2024-11-13,Intel NUC 13 Pro,Electronics,North,2,1198,359.40
+ORD-698,2024-11-20,Zimacube Pro,Electronics,West,2,1398,419.40
+ORD-699,2024-11-27,Unifydream NAS,Electronics,South,2,998,299.40
+ORD-700,2024-12-04,Ugreen NASync,Electronics,East,3,897,269.10
+ORD-701,2023-01-13,Living Room Sofa,Furniture,North,1,2499,749.70
+ORD-702,2023-01-20,Dining Set 7-Piece,Furniture,West,1,1899,569.70
+ORD-703,2023-01-27,King Bed Frame,Furniture,South,1,1599,479.70
+ORD-704,2023-02-03,Queen Bed Frame,Furniture,East,2,1598,479.40
+ORD-705,2023-02-10,Full Bed Frame,Furniture,North,3,1197,359.10
+ORD-706,2023-02-17,Bunk Bed Twin,Furniture,West,2,898,269.40
+ORD-707,2023-02-24,Daybed with Trundle,Furniture,South,2,798,239.40
+ORD-708,2023-03-03,Loft Bed Desk,Furniture,East,2,698,209.40
+ORD-709,2023-03-10,Murphy Bed Queen,Furniture,North,1,1499,449.70
+ORD-710,2023-03-17,Platform Bed King,Furniture,West,1,899,269.70
+ORD-711,2023-03-24,Sleigh Bed Queen,Furniture,South,1,1099,329.70
+ORD-712,2023-03-31,Canopy Bed King,Furniture,East,1,1399,419.70
+ORD-713,2023-04-07,Storage Bed Queen,Furniture,North,1,999,299.70
+ORD-714,2023-04-14,Upholstered Bed,Furniture,West,2,1198,359.40
+ORD-715,2023-04-21,Wooden Bed Frame,Furniture,South,2,798,239.40
+ORD-716,2023-04-28,Metal Bed Frame,Furniture,East,3,597,179.10
+ORD-717,2023-05-05,Adjustable Bed Base,Furniture,North,1,1299,389.70
+ORD-718,2023-05-12,Headboard King,Furniture,West,2,598,179.40
+ORD-719,2023-05-19,Headboard Queen,Furniture,South,3,597,179.10
+ORD-720,2023-05-26,Footboard Bench,Furniture,East,2,298,89.40
+ORD-721,2023-06-02,Nightstand Set 2,Furniture,North,4,596,178.80
+ORD-722,2023-06-09,Dresser 6 Drawer,Furniture,West,2,798,239.40
+ORD-723,2023-06-16,Chest 5 Drawer,Furniture,South,3,717,215.10
+ORD-724,2023-06-23,Armoire Wardrobe,Furniture,East,1,999,299.70
+ORD-725,2023-06-30,Vanity Table Set,Furniture,North,2,498,149.40
+ORD-726,2023-07-07,Vanity Stool,Furniture,West,4,196,58.80
+ORD-727,2023-07-14,Jewelry Armoire,Furniture,South,2,398,119.40
+ORD-728,2023-07-21,Mirror Floor Stand,Furniture,East,3,297,89.10
+ORD-729,2023-07-28,Mirror Wall Decor,Furniture,North,4,196,58.80
+ORD-730,2023-08-04,Bench Entryway,Furniture,West,3,297,89.10
+ORD-731,2023-08-11,Bench Bedroom,Furniture,South,4,316,94.80
+ORD-732,2023-08-18,Ottoman Storage,Furniture,East,5,395,118.50
+ORD-733,2023-08-25,Ottoman Coffee,Furniture,North,3,297,89.10
+ORD-734,2023-09-01,Armchair Living,Furniture,West,3,537,161.10
+ORD-735,2023-09-08,Accent Chair Set,Furniture,South,4,596,178.80
+ORD-736,2023-09-15,Recliner Chair,Furniture,East,2,598,179.40
+ORD-737,2023-09-22,Rocking Chair,Furniture,North,3,297,89.10
+ORD-738,2023-09-29,Glider Chair,Furniture,West,3,357,107.10
+ORD-739,2023-10-06,Chaise Lounge,Furniture,South,2,498,149.40
+ORD-740,2023-10-13,Loveseat Small,Furniture,East,2,698,209.40
+ORD-741,2023-10-20,Sectional Sofa,Furniture,North,1,2499,749.70
+ORD-742,2023-10-27,Sleeper Sofa,Furniture,West,1,1299,389.70
+ORD-743,2023-11-03,Chesterfield Sofa,Furniture,South,1,1799,539.70
+ORD-744,2023-11-10,Mid-Century Sofa,Furniture,East,1,1499,449.70
+ORD-745,2023-11-17,Leather Sofa,Furniture,North,1,2299,689.70
+ORD-746,2023-11-24,Velvet Sofa,Furniture,West,1,1599,479.70
+ORD-747,2023-12-01,Modular Sofa,Furniture,South,1,2799,839.70
+ORD-748,2023-12-08,Curved Sofa,Furniture,East,1,1899,569.70
+ORD-749,2023-12-15,L-Shaped Sofa,Furniture,North,1,2199,659.70
+ORD-750,2023-12-22,U-Shaped Sofa,Furniture,West,1,3499,1049.70
+ORD-751,2023-12-29,Coffee Table Wood,Furniture,South,2,598,179.40
+ORD-752,2024-01-05,Coffee Table Glass,Furniture,East,2,498,149.40
+ORD-753,2024-01-12,Coffee Table Lift,Furniture,North,1,699,209.70
+ORD-754,2024-01-19,End Table Set 2,Furniture,West,4,396,118.80
+ORD-755,2024-01-26,Console Table,Furniture,South,2,398,119.40
+ORD-756,2024-02-02,Sofa Table Long,Furniture,East,2,498,149.40
+ORD-757,2024-02-09,TV Stand 70 Inch,Furniture,North,2,798,239.40
+ORD-758,2024-02-16,Media Console,Furniture,West,1,899,269.70
+ORD-759,2024-02-23,Entertainment Center,Furniture,South,1,1299,389.70
+ORD-760,2024-03-01,Bookcase 5 Shelf,Furniture,East,3,597,179.10
+ORD-761,2024-03-08,Bookcase Ladder,Furniture,North,2,598,179.40
+ORD-762,2024-03-15,Bookcase Corner,Furniture,West,2,498,149.40
+ORD-763,2024-03-22,Bookcase With Doors,Furniture,South,2,698,209.40
+ORD-764,2024-03-29,Display Cabinet,Furniture,East,2,798,239.40
+ORD-765,2024-04-05,China Cabinet,Furniture,North,1,999,299.70
+ORD-766,2024-04-12,Buffet Sideboard,Furniture,West,1,899,269.70
+ORD-767,2024-04-19,Serving Cart,Furniture,South,2,298,89.40
+ORD-768,2024-04-26,Wine Rack 50 Bottles,Furniture,East,1,499,149.70
+ORD-769,2024-05-03,Bar Cabinet,Furniture,North,1,699,209.70
+ORD-770,2024-05-10,Kitchen Island,Furniture,West,1,799,239.70
+ORD-771,2024-05-17,Kitchen Cart,Furniture,South,2,398,119.40
+ORD-772,2024-05-24,Pantry Cabinet,Furniture,East,1,899,269.70
+ORD-773,2024-05-31,Dining Table Round,Furniture,North,1,999,299.70
+ORD-774,2024-06-07,Dining Table Oval,Furniture,West,1,1299,389.70
+ORD-775,2024-06-14,Dining Table Extend,Furniture,South,1,1499,449.70
+ORD-776,2024-06-21,Dining Chair Set 6,Furniture,East,2,898,269.40
+ORD-777,2024-06-28,Dining Chair Set 4,Furniture,North,3,597,179.10
+ORD-778,2024-07-05,Bar Stool Set 4,Furniture,West,4,396,118.80
+ORD-779,2024-07-12,Counter Stool Set,Furniture,South,4,316,94.80
+ORD-780,2024-07-19,Desk Office,Furniture,East,2,798,239.40
+ORD-781,2024-07-26,Desk Writing,Furniture,North,3,597,179.10
+ORD-782,2024-08-02,Desk Computer,Furniture,West,2,698,209.40
+ORD-783,2024-08-09,Desk Standing,Furniture,South,1,899,269.70
+ORD-784,2024-08-16,Desk Executive,Furniture,East,1,1299,389.70
+ORD-785,2024-08-23,Office Chair,Furniture,North,3,897,269.10
+ORD-786,2024-08-30,Task Chair,Furniture,West,5,495,148.50
+ORD-787,2024-09-06,Ergonomic Chair,Furniture,South,2,698,209.40
+ORD-788,2024-09-13,Gaming Chair,Furniture,East,2,598,179.40
+ORD-789,2024-09-20,Bookshelf 3 Tier,Furniture,North,4,396,118.80
+ORD-790,2024-09-27,File Cabinet 3,Furniture,West,3,447,134.10
+ORD-791,2024-10-04,File Cabinet 2,Furniture,South,4,396,118.80
+ORD-792,2024-10-11,Printer Stand,Furniture,East,3,297,89.10
+ORD-793,2024-10-18,Keyboard Tray,Furniture,North,4,156,46.80
+ORD-794,2024-10-25,Monitor Riser,Furniture,West,5,145,58.00
+ORD-795,2024-11-01,Desk Lamp LED,Furniture,South,6,294,88.20
+ORD-796,2024-11-08,Floor Lamp,Furniture,East,3,297,89.10
+ORD-797,2024-11-15,Table Lamp Set,Furniture,North,4,196,58.80
+ORD-798,2024-11-22,Wall Sconce Set,Furniture,West,4,196,58.80
+ORD-799,2024-11-29,Pendant Light,Furniture,South,3,297,89.10
+ORD-800,2024-12-06,Chandelier Modern,Furniture,East,2,598,179.40
+ORD-801,2023-01-16,Wedding Ring Set,Jewelry,North,1,2999,899.70
+ORD-802,2023-01-23,Diamond Necklace,Jewelry,West,1,4999,1499.70
+ORD-803,2023-01-30,Gold Bracelet,Jewelry,South,2,3998,1199.40
+ORD-804,2023-02-06,Silver Earrings,Jewelry,East,4,1996,599.80
+ORD-805,2023-02-13,Pearl Pendant,Jewelry,North,3,1497,449.10
+ORD-806,2023-02-20,Engagement Ring,Jewelry,West,2,5998,1799.40
+ORD-807,2023-02-27,Anniversary Band,Jewelry,South,2,2998,899.40
+ORD-808,2023-03-06,Tennis Bracelet,Jewelry,East,1,3999,1199.70
+ORD-809,2023-03-13,Stud Earrings,Jewelry,North,5,2495,749.50
+ORD-810,2023-03-20,Hoop Earrings,Jewelry,West,6,1794,538.20
+ORD-811,2023-03-27,Charm Bracelet,Jewelry,South,3,1497,449.10
+ORD-812,2023-04-03,Watch Gold,Jewelry,East,2,4998,1499.40
+ORD-813,2023-04-10,Watch Diamond,Jewelry,North,1,7999,2399.70
+ORD-814,2023-04-17,Watch Luxury,Jewelry,West,1,9999,2999.70
+ORD-815,2023-04-24,Chain Gold,Jewelry,South,3,2997,899.10
+ORD-816,2023-05-01,Chain Silver,Jewelry,East,5,1495,448.50
+ORD-817,2023-05-08,Pendant Cross,Jewelry,North,6,894,268.20
+ORD-818,2023-05-15,Pendant Heart,Jewelry,West,8,792,237.60
+ORD-819,2023-05-22,Ring Signet,Jewelry,South,5,745,223.50
+ORD-820,2023-05-29,Ring Cocktail,Jewelry,East,4,796,238.80
+ORD-821,2023-06-05,Brooch Vintage,Jewelry,North,4,596,178.80
+ORD-822,2023-06-12,Pin Set,Jewelry,West,8,392,117.60
+ORD-823,2023-06-19,Cufflinks Gold,Jewelry,South,6,534,160.20
+ORD-824,2023-06-26,Tie Clip Set,Jewelry,East,8,392,117.60
+ORD-825,2023-07-03,Money Clip,Jewelry,North,6,294,88.20
+ORD-826,2023-07-10,Key Chain Luxury,Jewelry,West,10,490,147.00
+ORD-827,2023-07-17,Jewelry Box Large,Jewelry,South,3,297,89.10
+ORD-828,2023-07-24,Jewelry Box Travel,Jewelry,East,5,245,73.50
+ORD-829,2023-07-31,Jewelry Cleaner,Jewelry,North,8,156,46.80
+ORD-830,2023-08-07,Jewelry Polish,Jewelry,West,10,99,49.50
+ORD-831,2023-08-14,Safe Jewelry,Jewelry,South,1,599,179.70
+ORD-832,2023-08-21,Safe Small,Jewelry,East,2,398,119.40
+ORD-833,2023-08-28,Ring Box Velvet,Jewelry,North,15,149,74.50
+ORD-834,2023-09-04,Earring Box Set,Jewelry,West,12,119,59.50
+ORD-835,2023-09-11,Necklace Box,Jewelry,South,10,149,74.50
+ORD-836,2023-09-18,Watch Box 10,Jewelry,East,4,396,118.80
+ORD-837,2023-09-25,Watch Roll Leather,Jewelry,North,6,294,88.20
+ORD-838,2023-10-02,Watch Winder Single,Jewelry,West,4,396,118.80
+ORD-839,2023-10-09,Watch Winder Quad,Jewelry,South,2,598,179.40
+ORD-840,2023-10-16,Watch Stand Display,Jewelry,East,8,196,58.80
+ORD-841,2023-10-23,Jewelry Stand Tree,Jewelry,North,10,196,58.80
+ORD-842,2023-10-30,Earring Holder,Jewelry,West,12,119,59.50
+ORD-843,2023-11-06,Necklace Display,Jewelry,South,8,156,46.80
+ORD-844,2023-11-13,Bracelet Display,Jewelry,East,8,156,46.80
+ORD-845,2023-11-20,Ring Tray Velvet,Jewelry,North,12,119,59.50
+ORD-846,2023-11-27,Jewelry Organizer,Jewelry,West,10,149,74.50
+ORD-847,2023-12-04,Travel Jewelry Case,Jewelry,South,8,119,59.50
+ORD-848,2023-12-11,Jewelry Pouch Set,Jewelry,East,15,149,74.50
+ORD-849,2023-12-18,Polishing Cloth,Jewelry,North,20,99,49.50
+ORD-850,2023-12-25,Jewelry Cleaning Kit,Jewelry,West,12,239,95.60
+ORD-851,2024-01-01,Diamond Stud 1ct,Jewelry,South,2,5998,1799.40
+ORD-852,2024-01-08,Diamond Stud 0.5ct,Jewelry,East,4,3996,1199.80
+ORD-853,2024-01-15,Ruby Ring,Jewelry,North,2,2998,899.40
+ORD-854,2024-01-22,Emerald Ring,Jewelry,West,2,3498,1049.40
+ORD-855,2024-01-29,Sapphire Ring,Jewelry,South,3,2697,809.10
+ORD-856,2024-02-05,Amethyst Pendant,Jewelry,East,5,1495,448.50
+ORD-857,2024-02-12,Garnet Earrings,Jewelry,North,6,1194,358.20
+ORD-858,2024-02-19,Topaz Necklace,Jewelry,West,4,1596,478.80
+ORD-859,2024-02-26,Opal Ring,Jewelry,South,4,1396,418.80
+ORD-860,2024-03-04,Turquoise Bracelet,Jewelry,East,5,995,249.00
+ORD-861,2024-03-11,Coral Necklace,Jewelry,North,4,1196,358.80
+ORD-862,2024-03-18,Jade Pendant,Jewelry,West,3,1497,449.10
+ORD-863,2024-03-25,Lapis Earrings,Jewelry,South,6,897,269.10
+ORD-864,2024-04-01,Onyx Ring,Jewelry,East,5,795,198.80
+ORD-865,2024-04-08,Moonstone Pendant,Jewelry,North,6,894,268.20
+ORD-866,2024-04-15,Aquamarine Ring,Jewelry,West,4,1396,418.80
+ORD-867,2024-04-22,Peridot Earrings,Jewelry,South,8,795,198.80
+ORD-868,2024-04-29,Citrine Pendant,Jewelry,East,6,897,269.10
+ORD-869,2024-05-06,Tanzanite Ring,Jewelry,North,3,2697,809.10
+ORD-870,2024-05-13,Morganite Ring,Jewelry,West,4,1996,599.80
+ORD-871,2024-05-20,Kunzite Pendant,Jewelry,South,4,1396,418.80
+ORD-872,2024-05-27,Alexandrite Ring,Jewelry,East,2,3998,1199.40
+ORD-873,2024-06-03,Spinel Earrings,Jewelry,North,5,1495,448.50
+ORD-874,2024-06-10,Zircon Ring,Jewelry,West,6,1194,358.20
+ORD-875,2024-06-17,Iolite Pendant,Jewelry,South,8,795,198.80
+ORD-876,2024-06-24,Chrome Ring,Jewelry,East,5,995,249.00
+ORD-877,2024-07-01,Tourmaline Ring,Jewelry,North,4,1596,478.80
+ORD-878,2024-07-08,Kyanite Pendant,Jewelry,West,6,894,268.20
+ORD-879,2024-07-15,Andalusite Ring,Jewelry,South,5,795,198.80
+ORD-880,2024-07-22,Sphene Earrings,Jewelry,East,6,795,198.80
+ORD-881,2024-07-29,Benitoite Ring,Jewelry,North,3,2097,629.10
+ORD-882,2024-08-05,Taaffeite Pendant,Jewelry,West,2,2998,899.40
+ORD-883,2024-08-12,Poudretteite Ring,Jewelry,South,2,3498,1049.40
+ORD-884,2024-08-19,Grandidierite,Jewelry,East,2,3998,1199.40
+ORD-885,2024-08-26,Jadeite Ring,Jewelry,North,2,4998,1499.40
+ORD-886,2024-09-02,Red Beryl Ring,Jewelry,West,1,9999,2999.70
+ORD-887,2024-09-09,Musgravite Ring,Jewelry,South,1,14999,4499.70
+ORD-888,2024-09-16,Painite Pendant,Jewelry,East,1,11999,3599.70
+ORD-889,2024-09-23,Black Opal,Jewelry,North,1,8999,2699.70
+ORD-890,2024-09-30,Pink Star Diamond,Jewelry,West,1,49999,14999.70
+ORD-891,2024-10-07,Blue Diamond,Jewelry,South,1,39999,11999.70
+ORD-892,2024-10-14,Red Diamond,Jewelry,East,1,99999,29999.70
+ORD-893,2024-10-21,Jadeite Necklace,Jewelry,North,1,19999,5999.70
+ORD-894,2024-10-28,Hancock Diamond,Jewelry,West,1,49999,14999.70
+ORD-895,2024-11-04,Wittelsbach Diamond,Jewelry,South,1,79999,23999.70
+ORD-896,2024-11-11,Hope Diamond Replica,Jewelry,East,1,29999,8999.70
+ORD-897,2024-11-18,Kohinoor Replica,Jewelry,North,1,49999,14999.70
+ORD-898,2024-11-25,Cullinan Replica,Jewelry,West,1,59999,17999.70
+ORD-899,2024-12-02,Regent Replica,Jewelry,South,1,39999,11999.70
+ORD-900,2024-12-09,Orlov Replica,Jewelry,East,1,34999,10499.70
+ORD-901,2023-01-06,Ski Pass Winter,Sports,North,10,999,499.50
+ORD-902,2023-01-13,Golf Club Membership,Sports,West,2,5998,2399.20
+ORD-903,2023-01-20,Tennis Club Member,Sports,South,5,1495,598.00
+ORD-904,2023-01-27,Swim Pass Monthly,Sports,East,20,798,399.00
+ORD-905,2023-02-03,Yoga Class 20 Pack,Sports,North,8,1192,476.80
+ORD-906,2023-02-10,Pilates Class 10,Sports,West,12,1194,477.60
+ORD-907,2023-02-17,CrossFit Monthly,Sports,South,6,897,358.80
+ORD-908,2023-02-24,Boxing Gym Pass,Sports,East,8,795,318.00
+ORD-909,2023-03-03,Martial Arts Dojo,Sports,North,5,745,298.00
+ORD-910,2023-03-10,Dance Class 8 Pack,Sports,West,10,795,318.00
+ORD-911,2023-03-17,Spin Class 10 Pack,Sports,South,12,599,239.60
+ORD-912,2023-03-24,HIIT Class Pass,Sports,East,15,597,238.80
+ORD-913,2023-03-31,Personal Trainer 10,Sports,North,4,1996,798.40
+ORD-914,2023-04-07,Personal Trainer 20,Sports,West,2,3498,1399.20
+ORD-915,2023-04-14,Sports Massage 5,Sports,South,6,894,357.60
+ORD-916,2023-04-21,Physical Therapy 10,Sports,East,4,1196,478.40
+ORD-917,2023-04-28,Nutrition Consult,Sports,North,8,795,318.00
+ORD-918,2023-05-05,Sports Psychology,Sports,West,6,894,357.60
+ORD-919,2023-05-12,Performance Coach,Sports,South,4,1196,478.40
+ORD-920,2023-05-19,Athletic Training,Sports,East,5,745,298.00
+ORD-921,2023-05-26,Speed Training,Sports,North,6,795,318.00
+ORD-922,2023-06-02,Agility Training,Sports,West,8,599,239.60
+ORD-923,2023-06-09,Strength Program,Sports,South,5,895,358.00
+ORD-924,2023-06-16,Cardio Program,Sports,East,6,696,278.40
+ORD-925,2023-06-23,Endurance Program,Sports,North,5,745,298.00
+ORD-926,2023-06-30,Flexibility Class,Sports,West,10,499,199.60
+ORD-927,2023-07-07,Balance Training,Sports,South,8,395,158.00
+ORD-928,2023-07-14,Core Strength,Sports,East,12,597,238.80
+ORD-929,2023-07-21,Upper Body Focus,Sports,North,8,599,239.60
+ORD-930,2023-07-28,Lower Body Focus,Sports,West,8,599,239.60
+ORD-931,2023-08-04,Full Body Workout,Sports,South,10,695,278.00
+ORD-932,2023-08-11,Functional Training,Sports,East,8,599,239.60
+ORD-933,2023-08-18,Recovery Session,Sports,North,12,599,239.60
+ORD-934,2023-08-25,Stretch Class,Sports,West,15,448,179.20
+ORD-935,2023-09-01,Boot Camp 4 Week,Sports,South,4,796,318.40
+ORD-936,2023-09-08,Marathon Training,Sports,East,3,897,358.80
+ORD-937,2023-09-15,Triathlon Program,Sports,North,2,998,399.20
+ORD-938,2023-09-22,Cycling Program,Sports,West,4,796,318.40
+ORD-939,2023-09-29,Swimming Lessons,Sports,South,10,699,279.60
+ORD-940,2023-10-06,Tennis Lessons 10,Sports,East,5,995,398.00
+ORD-941,2023-10-13,Golf Lessons 5,Sports,North,4,1196,478.40
+ORD-942,2023-10-20,Basketball Camp,Sports,West,3,897,358.80
+ORD-943,2023-10-27,Soccer Camp,Sports,South,4,796,318.40
+ORD-944,2023-11-03,Baseball Camp,Sports,East,3,897,358.80
+ORD-945,2023-11-10,Volleyball Camp,Sports,North,4,796,318.40
+ORD-946,2023-11-17,Hockey Camp,Sports,West,3,897,358.80
+ORD-947,2023-11-24,Football Camp,Sports,South,4,796,318.40
+ORD-948,2023-12-01,Wrestling Camp,Sports,East,3,897,358.80
+ORD-949,2023-12-08,Gymnastics Camp,Sports,North,4,796,318.40
+ORD-950,2023-12-15,Dance Camp,Sports,West,5,695,278.00
+ORD-951,2023-12-22,Cheer Camp,Sports,South,5,695,278.00
+ORD-952,2023-12-29,Martial Arts Camp,Sports,East,4,796,318.40
+ORD-953,2024-01-05,Boxing Camp,Sports,North,3,897,358.80
+ORD-954,2024-01-12,Karate Camp,Sports,West,4,796,318.40
+ORD-955,2024-01-19,Judo Camp,Sports,South,4,796,318.40
+ORD-956,2024-01-26,Taekwondo Camp,Sports,East,4,796,318.40
+ORD-957,2024-02-02,Kung Fu Camp,Sports,North,4,796,318.40
+ORD-958,2024-02-09,Aikido Camp,Sports,West,4,796,318.40
+ORD-959,2024-02-16,CrossFit Camp,Sports,South,3,897,358.80
+ORD-960,2024-02-23,Powerlifting Camp,Sports,East,3,897,358.80
+ORD-961,2024-03-01,Bodybuilding Camp,Sports,North,2,998,399.20
+ORD-962,2024-03-08,Strongman Camp,Sports,West,2,998,399.20
+ORD-963,2024-03-15,Olympic Lifting,Sports,South,3,897,358.80
+ORD-964,2024-03-22,Power Yoga Camp,Sports,East,5,695,278.00
+ORD-965,2024-03-29,Hot Yoga Retreat,Sports,North,4,796,318.40
+ORD-966,2024-04-05,Meditation Retreat,Sports,West,5,695,278.00
+ORD-967,2024-04-12,Wellness Retreat,Sports,South,4,796,318.40
+ORD-968,2024-04-19,Fitness Retreat,Sports,East,3,897,358.80
+ORD-969,2024-04-26,Adventure Camp,Sports,North,4,796,318.40
+ORD-970,2024-05-03,Outdoor Camp,Sports,West,5,695,278.00
+ORD-971,2024-05-10,Survival Camp,Sports,South,4,796,318.40
+ORD-972,2024-05-17,Wilderness Camp,Sports,East,4,796,318.40
+ORD-973,2024-05-24,Water Sports Camp,Sports,North,3,897,358.80
+ORD-974,2024-05-31,Beach Sports Camp,Sports,West,4,796,318.40
+ORD-975,2024-06-07,Winter Sports Camp,Sports,South,3,897,358.80
+ORD-976,2024-06-14,Mountain Sports,Sports,East,4,796,318.40
+ORD-977,2024-06-21,Extreme Sports Camp,Sports,North,3,897,358.80
+ORD-978,2024-06-28,Youth Sports Camp,Sports,West,6,597,238.80
+ORD-979,2024-07-05,Teen Fitness Camp,Sports,South,5,695,278.00
+ORD-980,2024-07-12,Kids Sports Camp,Sports,East,8,599,239.60
+ORD-981,2024-07-19,Family Sports Camp,Sports,North,4,796,318.40
+ORD-982,2024-07-26,Corporate Sports Day,Sports,West,3,897,358.80
+ORD-983,2024-08-02,Team Building Sports,Sports,South,4,796,318.40
+ORD-984,2024-08-09,Executive Sports Day,Sports,East,3,897,358.80
+ORD-985,2024-08-16,Pro Athlete Training,Sports,North,2,1998,799.20
+ORD-986,2024-08-23,Elite Sports Program,Sports,West,2,2498,999.20
+ORD-987,2024-08-30,Champion Program,Sports,South,2,2998,1199.20
+ORD-988,2024-09-06,Gold Medal Program,Sports,East,1,3499,1399.60
+ORD-989,2024-09-13,Olympic Program,Sports,North,1,4999,1999.60
+ORD-990,2024-09-20,World Class Program,Sports,West,1,5999,2399.60
+ORD-991,2024-09-27,Elite Coach Program,Sports,South,1,2999,1199.60
+ORD-992,2024-10-04,Master Coach Program,Sports,East,1,3999,1599.60
+ORD-993,2024-10-11,Pro Coach Program,Sports,North,1,3499,1399.60
+ORD-994,2024-10-18,Sports Director Course,Sports,West,1,2999,1199.60
+ORD-995,2024-10-25,Sports Management,Sports,South,1,3499,1399.60
+ORD-996,2024-11-01,Sports Business Course,Sports,East,1,2499,999.60
+ORD-997,2024-11-08,Sports Marketing,Sports,North,1,1999,799.60
+ORD-998,2024-11-15,Sports Analytics Course,Sports,West,1,2299,919.60
+ORD-999,2024-11-22,Sports Science Degree,Sports,South,1,9999,3999.60
+ORD-1000,2024-11-29,Sports Medicine Course,Sports,East,1,7999,3199.60
+ORD-1001,2024-12-06,Sports Psychology PhD,Sports,North,1,14999,5999.60
+ORD-1002,2024-12-13,Sports Tech Innovation,Sports,West,1,9999,3999.60
+ORD-1003,2024-12-20,Sports Venue Design,Sports,South,1,12999,5199.60
+ORD-1004,2024-12-27,Sports Event Planning,Sports,East,1,8999,3599.60
+ORD-1005,2023-02-14,Valentine Gift Set,Gifts,North,20,998,399.20
+ORD-1006,2023-03-17,St Patrick Decor,Gifts,West,15,745,298.00
+ORD-1007,2023-04-09,Easter Basket Set,Gifts,South,25,748,299.20
+ORD-1008,2023-05-14,Mother Day Special,Gifts,East,30,1497,598.80
+ORD-1009,2023-06-18,Father Day Bundle,Gifts,North,25,1246,498.40
+ORD-1010,2023-07-04,Independence Pack,Gifts,West,40,996,398.40
+ORD-1011,2023-10-31,Halloween Set,Gifts,South,50,747,298.80
+ORD-1012,2023-11-23,Thanksgiving Bundle,Gifts,East,35,1045,418.00
+ORD-1013,2023-12-25,Christmas Gift Set,Gifts,North,60,1797,718.80
+ORD-1014,2024-02-14,Valentine Premium,Gifts,West,25,1248,499.20
+ORD-1015,2024-03-17,St Patrick Premium,Gifts,South,20,997,398.80
+ORD-1016,2024-03-31,Easter Premium,Gifts,East,30,1497,598.80
+ORD-1017,2024-05-12,Mother Day Luxury,Gifts,North,25,1996,798.40
+ORD-1018,2024-06-16,Father Day Premium,Gifts,West,20,1498,599.20
+ORD-1019,2024-07-04,July 4th Special,Gifts,South,45,1346,538.40
+ORD-1020,2024-10-31,Halloween Premium,Gifts,East,55,1097,438.80
