@@ -24,7 +24,20 @@ Backend
 
 ## Screenshots
 
-(Add dashboard screenshots here)
+### Dashboard Overview
+![Dashboard](screenshots/dashboard.png.png)
+
+### Sales Trends
+![Sales Trends](screenshots/sales_trends.png.png)
+
+### Product Analysis
+![Products](screenshots/products.png.png)
+
+### Regional Performance
+![Regions](screenshots/regions.png.png)
+
+### Business Insights
+![Insights](screenshots/insights.png.png)
 
 ## How to Run
 
